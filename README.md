@@ -1,2 +1,4 @@
-# NRO_DN_1
-Repozitorij za prvo domačo nalogo pri predmetu NRO.
+Martin Koderman
+
+23231257
+
